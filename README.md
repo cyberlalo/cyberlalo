@@ -1,27 +1,31 @@
 <div align="center">
-  <h1>Hey there, I'm cyb3rl4l0 👋</h1>
-  <h3>Offensive Cybersecurity | Ethical Hacking | Red Team </h3>
+  <h1>Hey there, I'm <strong>cyb3rl4l0</strong> 👋</h1>
+  <h3>Cybersecurity Student | Java Developer | OWASP Top 10 Advocate</h3>
 </div>
 
 ---
 
 ### ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,vim,c,lua,python,linux,bsd,debian,git,github" />
+  <img src="https://skillicons.dev/icons?i=bash,vim,linux,git,github,java,spring,maven,hibernate,tomcat,python" />
 </div>
 
 ---
 
-- ### 🧠 Current Focus
-- Adversary emulation based on real-world threat actors (MITRE ATT&CK)
-- Red Team operations and offensive tradecraft
-- Offensive security in Unix-like environments (Linux and FreeBSD)
-- Vulnerability discovery and exploitation (manual and automated)
-- Custom scripting of offensive tools and payloads (Bash, Lua, Python)
-- Privilege escalation and post-exploitation techniques
-- Development of custom C tooling for enumeration and persistence
-- Fundamentals of exploit development and reverse engineering (x86-64)
-- Evasion techniques and bypassing defensive mechanisms
+### 🧾 Bio
+> Cybersecurity student and Java developer applying **OWASP Top 10** principles to secure Java web stacks (**Spring, JSP, Hibernate, Tomcat**) while exploring **JVM HotSpot internals** and vulnerability exploitation.
+
+---
+
+### 🔎 Current Focus
+- Applying **OWASP Top 10** principles to harden Java web applications.  
+- Secure development and configuration of **Spring**, **Hibernate**, **JSP/Servlets**, and **Tomcat**.  
+- Vulnerability discovery, exploitation, and secure coding practices in the **JVM ecosystem**.  
+- Researching **JVM HotSpot internals** — JIT compilation, class loading, and memory model.  
+- Developing custom offensive and defensive tools in **Bash**, **Python**, and **Java**.  
+- Fundamentals of **exploit development** and **reverse engineering** (x86-64).  
+- Implementing **DevSecOps** principles in the Java application lifecycle.  
+- Threat modeling and adversary emulation based on **MITRE ATT&CK**.
 
 ---
 
@@ -33,10 +37,10 @@
 
 ---
 
-### 📫 How to reach me
-- **Email:** [laloarauxo@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/cyb3rl4l0/]
-- **YouTube Channel:** [https://www.youtube.com/@cyb3rl4l0]
+### 📫 How to Reach Me
+- **Email:** [laloarauxo@gmail.com](mailto:laloarauxo@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/cyb3rl4l0](https://www.linkedin.com/in/cyb3rl4l0/)  
+- **YouTube:** [youtube.com/@cyb3rl4l0](https://www.youtube.com/@cyb3rl4l0)
 
 ---
 
