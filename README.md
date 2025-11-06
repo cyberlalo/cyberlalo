@@ -13,7 +13,7 @@
 ---
 
 ### 🧾 Bio
-> Cybersecurity student and Java developer applying **OWASP Top 10** principles to secure Java web stacks (**Spring, JSP, Hibernate, Tomcat**) while exploring **JVM HotSpot internals** and vulnerability exploitation.
+> DevSec Java Enthusiast applying **OWASP Top 10** principles to secure Java web stacks (**Spring, JSP, Hibernate, Tomcat**) while exploring **JVM HotSpot internals** and vulnerability exploitation.
 
 ---
 
