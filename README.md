@@ -1,47 +1,58 @@
 <div align="center">
   <h1>Hey there, I'm <strong>cyb3rl4l0</strong> 👋</h1>
-  <h3>Cybersecurity Student | Java Developer </h3>
+  <h3>Beginner Web Hacking & Wi‑Fi Security Student</h3>
 </div>
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack (Estudando)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,vim,linux,git,github,java,spring,maven,hibernate,python,docker,aws,gcp,jenkins," />
+  <img src="https://skillicons.dev/icons?i=bash,linux,python,git,github,html,css,js" />
 </div>
 
 ---
 
 ### 🧾 Bio
-> DevSec Java Enthusiast applying **OWASP Top 10** principles to secure Java web stacks (**Spring, JSP, Hibernate, Tomcat**) while exploring **JVM HotSpot internals** and vulnerability exploitation.
+> Estudante de segurança focado no básico de **hacking de aplicações web** e **segurança Wi‑Fi**, aprendendo técnicas fundamentais, análise de tráfego e desenvolvimento de pequenos scripts para estudo.
 
 ---
 
-### 🔎 Current Focus
-- Applying **OWASP Top 10** principles to harden Java web applications.  
-- Secure development and configuration of **Spring**, **Hibernate**, **JSP/Servlets**, and **Tomcat**.  
-- Vulnerability discovery, exploitation, and secure coding practices in the **JVM ecosystem**.  
-- Researching **JVM HotSpot internals** — JIT compilation, class loading, and memory model.  
-- Developing custom offensive and defensive tools in **Bash**, **Python**, and **Java**.  
-- Fundamentals of **exploit development** and **reverse engineering** (x86-64).  
-- Implementing **DevSecOps** principles in the Java application lifecycle.  
-- Threat modeling and adversary emulation based on **MITRE ATT&CK**.
+### 🔎 O que estou aprendendo
+
+#### 🕸️ Web Hacking (Iniciante)
+- Conceitos essenciais da **OWASP Top 10**.  
+- Entender como funcionam:
+  - XSS (Cross‑Site Scripting)  
+  - SQL Injection (noções básicas)  
+  - Directory Traversal  
+  - Cookies, sessões e autenticação  
+- Fazer testes simples com:
+  - Burp Suite (Community)  
+  - curl / wget  
+  - navegadores com ferramentas de desenvolvedor  
+- Criando pequenos labs locais para praticar.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rl4l0&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rl4l0&layout=compact&theme=radical" />
-</div>
+#### 📡 Wi‑Fi Hacking (Iniciante)
+- Entender como redes **802.11** funcionam.  
+- Usar modo monitor e capturar pacotes com:
+  - **Airodump-ng**  
+  - **Wireshark**  
+- Aprender a identificar:
+  - Handshakes  
+  - Beacon frames  
+  - Probe requests/responses  
+- Testes controlados em laboratório usando adaptadores Wi‑Fi compatíveis.  
+- Experimentos com **ESP8266** para capturar frames e estudar o tráfego.
 
 ---
 
 ### 📫 How to Reach Me
-- **Email:** [cyberlalo@proton.me](mailto:cyberlalo@proton.me)  
-- **LinkedIn:** [linkedin.com/in/cyb3rl4l0](https://www.linkedin.com/in/cyb3rl4l0/)  
-- **YouTube:** [youtube.com/@invoke-virtual](https://www.youtube.com/@invoke-virtual)
+- **Email:** cyberlalo@proton.me  
+- **LinkedIn:** https://www.linkedin.com/in/cyb3rl4l0/  
+- **YouTube:** https://www.youtube.com/@invoke-virtual  
 
 ---
 
-> "Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke
+> "Every expert was once a beginner — just don’t stop learning."
